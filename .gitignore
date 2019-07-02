@@ -2,6 +2,7 @@
 
 # dependencies
 /.idea
+/target
 
 # testing
 /coverage
