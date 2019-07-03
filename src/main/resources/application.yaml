@@ -6,7 +6,7 @@ spring:
     platform: postgres
     jpa:
       database: POSTGRESQL
-      show-sql: true
+      show-sql: false
       properties:
         hibernate:
           jdbc:
