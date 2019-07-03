@@ -10,7 +10,7 @@ spring:
       properties:
         hibernate:
           temp:
-            use_jdbc_metadata_defaults: false
+            use-jdbc-metadata-defaults: false
           jdbc:
             lob:
               non-contextual-creation: true
