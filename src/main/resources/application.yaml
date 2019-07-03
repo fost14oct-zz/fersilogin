@@ -11,4 +11,4 @@ spring:
         hibernate:
           jdbc:
             lob:
-              non_contextual_creation: true
+              non-contextual-creation: true
